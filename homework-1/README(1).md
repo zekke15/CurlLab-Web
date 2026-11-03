@@ -216,8 +216,3 @@ py -m unittest discover -s tests -v
 **專案名稱：** CurlLab-Web  
 **作業主題：** 習題 1 — 類似 curl 的網頁版專案  
 **GitHub：** https://github.com/zekke15/CurlLab-Web
-
-![alt text](image-1.png)
-
-
-[def]: image.png
