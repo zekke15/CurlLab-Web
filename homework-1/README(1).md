@@ -208,8 +208,8 @@ py -m unittest discover -s tests -v
 **開發方式：** 使用 ChatGPT 協助規劃程式架構、產生與調整程式碼和文件，再透過 VS Code、GitHub、Render 進行實作與部署。
 
 ## 📸 專案截圖（自行補上）
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/571dcae3-8a34-43ab-bc66-0da8a3cfc79a" />
 
-建議補上三張實際操作畫面：**網站首頁、GET 成功回應、POST 成功回應**。完成截圖後可存入專案的 `screenshots/` 資料夾，再於此處加入 Markdown 圖片連結。
 
 ---
 
